@@ -1,0 +1,14 @@
+# Ignore environment folder
+ai/
+
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore Chromedriver
+chromedriver
+
+# Ignore test.py
+test.py
+
+# Ignore all text files
+*.txt
